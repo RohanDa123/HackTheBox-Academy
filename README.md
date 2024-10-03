@@ -10,5 +10,3 @@ Welcome to my repository containing all of my notes and progress for HackTheBox 
 - [Windows Fundamentals](https://academy.hackthebox.com/achievement/1467012/34)
 - [Web Application Security](https://academy.hackthebox.com/achievement/1467012/49)
 
-## About Me
-I am an IT professional with expertise in hardware support, cloud computing, networking, and cyber security. Passionate about solving complex technical issues and continuously improving my skill set in fast-paced environments.
