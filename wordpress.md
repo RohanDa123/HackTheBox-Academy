@@ -1,7 +1,9 @@
 ## First hack with Metasploit
 
-Q: Try to identify the services running on the server above, and then try to search to find public exploits to exploit them. Once you do, try to get the content of the '/flag.txt' file. (note: the web server may take a few seconds to start)
+## Objective
+Identify services running on the server and find public exploits to retrieve the content of `/flag.txt`.
 
+## Steps
 I first open up the target in my browser to see what we are working with. I meet a webpage displaying the text "Simple Backup Plugin 2.7.10 for WordPress".
 
 I search up "simple backup" on Metasploit to see if I get any hits on it. The rest I will show is the commands to this hack.
