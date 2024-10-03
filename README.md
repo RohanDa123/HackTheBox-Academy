@@ -1,6 +1,6 @@
 # HackTheBox-Academy
 
-Welcome to my repository containing all of my notes and progress for HackTheBox Academy! This repository will be continuously updated as I complete more modules and further my knowledge in cyber security and ethical hacking.
+Welcome to my repository containing all of my notes and progress for HackTheBox! This repository will be continuously updated as I complete more modules and further my knowledge in cyber security and ethical hacking.
 
 ## 🚧 Currently Working On
 - <span style="color:blue;">Introduction to Bash Scripting</span> 
